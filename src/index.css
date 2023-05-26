@@ -1,0 +1,85 @@
+body,
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+div {
+    font-size: 14px;
+}
+
+th {
+    font-size: 13px;
+}
+
+td {
+    font-size: 13px;
+}
+
+input {
+    font-size: 13px;
+}
+
+img {
+    object-fit: cover;
+}
+
+.input-group-text {
+    font-size: 14px;
+}
+
+.container {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 13px;
+}
+
+.menu {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.skor {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.dropdown-menu {
+    max-height: 280px;
+    overflow-y: auto;
+}
+
+.logo-30 {
+    width: auto;
+    height: 30%;
+}
+
+.logo-10 {
+    width: auto;
+    height: 241px;
+}
+
+.logo-5 {
+    width: auto;
+    height: 133px;
+}
+
+.logo-1 {
+    height: auto;
+    width: 119px;
+}
+
+.arrow-target {
+    background-color: brown;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
